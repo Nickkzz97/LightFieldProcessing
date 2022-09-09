@@ -1,2 +1,2 @@
 # LightFieldProcessing
-Image synthesize, digital focusing, digital aperture modification, Depthe estimation
+Image synthesize, digital focusing, digital aperture modification, Depth estimation
